@@ -1,9 +1,0 @@
-<resources>
-    <!--    对应api21+手机型号在此调用。-->
-    <style name="AppTheme.NoActionBar">
-        <!--  隐藏标题栏-->
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-    </style>
-</resources>
