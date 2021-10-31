@@ -1,0 +1,1340 @@
+file
+OO
+oop
+JDK
+jvm
+compile
+run
+class
+object
+system
+out
+print
+line
+variable
+type
+operation
+array
+parameter
+method
+function
+member variable
+member function
+get
+set
+public
+private
+protected
+default
+access
+package
+import
+static
+void
+extends
+parent class
+base class
+superclass
+child class
+derived class
+override
+overload
+final
+abstract
+interface
+implements
+exception
+runtime
+arithmeticexception
+nullpointerexception
+numberformatexception
+try
+catch
+finally
+throw
+throws
+throwable
+lang
+util
+display
+random
+collection
+hashmap
+swing
+AWT
+frame
+size
+title
+add
+panel
+layout
+scroll
+vertical
+horizonatal
+label
+TextField
+textarea
+button
+checkbox
+radiobutton
+combobox
+event
+mouse
+key
+focus
+listener
+border
+flow
+grid
+menubar
+menu
+menuitem
+popupmenu
+dialog
+message
+icon
+tree
+node
+JDBC
+drivermanager
+connection
+statement
+preparedstatement
+ResultSet
+next
+close
+executequery
+new
+new project
+new class
+new file
+open project
+open file
+reopen
+close projects
+rename
+exit
+view
+panes
+project
+content
+structure
+message
+source
+bean
+properties
+make
+build
+rebuild
+project properties
+run
+debug
+tools
+preferences
+configure
+url
+IE
+JSP
+model
+view
+tomcat
+servlet
+request
+response
+init
+service
+destroy
+startup
+mapping
+pattern
+getparameter
+session
+application
+context
+redirect
+dispatch
+forward
+setattribute
+getattribute
+page
+contenttype
+charset
+include
+tag
+taglib
+EL
+scope
+empty
+JSTL
+TLD
+core
+test
+foreach
+var
+status
+items
+FMT
+filter
+data structures
+dictionaries
+priority queues
+set data structures
+kd-trees
+numerical problems
+solving linear equations
+bandwidth reduction
+matrix multiplication
+Determinants and Permanents
+constrained and unconstrained optimization
+linear programming
+random number generation
+factoring and primality testing
+arbitrary precision arithmetic
+knapsack problem
+discrete Fourier transform
+combinatorial problem
+sorting
+searching
+median and selection
+generating permutations
+generating subsets
+generating partitions
+generating graphs
+calendrical calculations
+job scheduling
+satisfiability
+connected components
+topological sorting
+minimum spanning tree
+shortest path
+transitive closure and reduction
+matching
+edge and vertex connectivity
+network flow
+drawing graphs nicely
+drawing trees
+planarity detection and embedding
+clique
+independent set
+vertex cover
+traveling salesman problem
+graph partition
+vertex coloring
+edge coloring
+graph isomorphism
+steiner tree steiner
+computational geometry
+convex hull
+triangulation
+voronoi diagrams voronoi
+nearest neighbor search
+range search
+point location
+Intersection Detection
+bin packing
+medial-axis transformation
+polygon partitioning
+simplifying polygons
+shape similarity
+motion planning
+maintaining line arrangements
+minkowski sum minkowski
+set and string problems
+set cover
+set packing
+string matching
+approximate string matching
+text compression
+cryptography
+finite state machine minimization
+longest common substring
+shortest common superstring
+DP
+recursion
+JDK
+jvm
+javac
+java
+javadoc
+classpath
+version
+author
+public
+class
+static
+void
+string
+system
+out
+print
+println
+JIT
+byte
+char
+Boolean
+short
+int
+long
+float
+double
+if
+else
+switch
+case
+break
+default
+while
+do
+for
+continue
+length
+oop   object oriented programming
+object
+class
+class member
+class method
+class variable
+constructor
+package
+import package
+extends
+base class
+superclass
+overloaded method
+overridden method
+public
+private
+protected
+static
+abstract
+interface
+implement interface
+exception
+runtimeexcepiton
+arithmeticexception
+illegalargumentexception
+nullpointerexception
+numberformatexception
+ioexception
+filenotfoundexception
+eofexception
+interruptedexception
+try
+catch
+finally
+throw
+throws
+print stack trace
+get message
+get cause
+method
+able
+instance
+check
+byte
+char
+int
+long
+float
+double
+Boolean
+short
+byte
+character
+integer
+long
+float
+double
+Boolean
+short
+digit
+letter
+lower
+upper
+space
+identifier
+start
+string
+length
+equals
+ignore
+compare
+sub
+concat
+replace
+trim
+buffer
+reverse
+delete
+append
+interrupted
+date
+after
+before
+equals
+toString
+settime
+display
+calendar
+add
+getinstance
+gettime
+clear
+clone
+util
+components
+month
+year
+hour
+minute
+second
+random
+next int
+gaussian
+ArrayList
+linkedlist
+hash
+map
+vector
+size
+collection
+shuffle
+removefirst
+removelast
+lastelement
+capacity
+contains
+copy
+search
+insertelementat
+file
+import
+exists
+isfile
+isdirectory
+getname
+getpath
+getabsolutepath
+lastmodified
+length
+inputstream
+outputstream
+unicode
+information
+fileinputstream
+fileoutputstream
+ioexception
+fileobject
+available
+read
+write
+bufferedreader
+filereader
+bufferedwriter
+filewriter
+flush
+close
+datainputstream
+dataoutputstream
+EOF
+encoding
+remote
+release
+enterprise
+developer
+foundation
+messages
+structure
+project
+files
+source
+design
+history
+DOC
+file
+edit
+search
+refactor
+view
+run
+tools
+window
+help
+vector
+addelement
+project winzard
+step
+title
+description
+copyright
+company
+aptech limited aptech
+author
+back
+finish
+version
+debug
+new
+errorinsight
+jframe
+jpanel
+jscrollpane
+title
+dimension
+component
+getcontentpane
+layoutmanager
+AWT
+GUI
+jlabel
+icon
+image
+left
+right
+jtextfield
+getcolumns
+setlayout
+borderlayout
+center
+jtextarea
+setfont
+sethorizontalalignment
+setdefaultcloseoperation
+add
+jbutton
+jcheckbox
+jradiobutton
+additem
+getitemat
+getitemcount
+setrollovericon
+setselectedicon
+getselecteditem
+getselectedindex
+actionlistener
+actionevent
+actionperformed
+a2a integration
+abstract
+abstract base class
+abstract class
+abstraction
+access
+access level
+access function
+account
+action
+activate
+active
+actual parameter
+adapter
+add-in
+address
+address space
+address-of operator
+ADL
+ado
+advanced
+aggregation
+algorithm
+alias
+align
+allocate
+allocator
+angle bracket
+annotation
+api
+app domain
+application
+application framework
+appearance
+append
+architecture
+archive file
+argument
+array
+arrow operator
+asp
+assembly
+assembly language
+assembly manifest
+assert
+assign
+assignment
+assignment operator
+associated
+associative container
+asynchronous
+atomic
+atomic operation
+attribute
+authentication service
+authorization
+audio
+A.I.
+b2b integration  b2b
+background
+backward compatible
+backup
+backup device
+backup file
+bandwidth
+base class
+base type
+batch
+BCL
+binary
+binary search
+binary tree
+binary function
+binary large object
+binary operator
+binding
+bit
+bitmap
+bitwise
+bitwise copy
+bitwise operation
+block
+bookkeeping
+Boolean
+border
+bounds checking
+boxing
+brace
+bracket
+breakpoint
+browser applications
+browser-accessible application
+build
+built-in
+bus
+business
+business logic
+business rules
+buttons
+bug
+byte
+cache
+calendar
+call
+callback
+call-level interface
+call operator
+candidate key
+cascading delete
+cascading update
+casting
+catalog
+chain
+character
+character format
+character set
+check constraints check
+checkpoint
+check box
+check button
+child class
+cil
+class
+class declaration
+class definition
+class derivation list
+class factory
+class hierarchy
+class library
+class loader
+class template
+class template partial specializations
+class template specializations
+classification
+clause
+client application
+client cursor
+code page
+cleanup
+CLI
+client
+client area
+client-server
+clipboard
+clone
+CLS
+code access security
+coff
+collection
+COM
+combo box
+command line
+comment
+commit
+communication
+compatible
+compile time
+compiler
+component
+composite index
+composite key
+composition
+concept
+concrete
+concrete class
+concurrency
+constraint
+configuration
+connection
+connection pooling
+console
+constant
+construct
+constructor
+container
+containment
+context
+control
+cookie
+copy
+corba
+cover
+crosstab query
+crtp
+CTS
+cube
+cursor
+cursor
+custom
+data
+data connection
+data control language
+data definition language
+data dictionary
+data dictionary view
+data file
+data integrity
+data manipulation language
+data mart
+data pump
+data scrubbing
+data source
+data source name
+data warehouse
+dataset
+database
+database catalog
+database diagram
+database file
+database object
+database owner
+database project
+database role
+database schema
+database script
+data-bound
+data-aware control
+data member
+dataset
+data source
+data structure
+data table
+datagram
+DBMS
+DCOM
+dead lock
+deallocate
+debug
+debugger
+decay
+decision support
+declaration
+declarative referential integrity
+deduction
+default constraint
+default database
+default instance
+default result set
+default
+defer
+definition
+delegate
+delegation
+dependent name
+deploy
+dereference
+dereference operator
+derived class
+design by contract
+design pattern
+destroy
+destructor
+device
+DHTML
+dialog
+digest
+digital
+dime
+directive
+directory
+dirty pages
+dirty read
+disassembler
+disco
+disk
+dispatch
+dispid
+distributed computing
+distributed query
+DNA
+document
+dom
+dot operator
+driver
+DTD
+double-byte character set
+dump
+dump file
+dynamic cursor
+dynamic filter
+dynamic locking
+dynamic recovery
+dynamic snapshot
+dynamic sql statements
+dynamic assembly
+dynamic binding
+EAI
+e-business
+EDI
+efficiency
+efficient
+end-to-end authentication
+end user
+engine
+entity
+encapsulation
+enclosing class
+enum
+enumerators
+equal
+equality
+equality operator
+error log
+escape code
+escape character
+exclusive lock
+explicit transaction
+evaluate
+event
+event driven
+event handler
+evidence
+exception
+exception declaration
+exception handling
+exception-safe
+exception specification
+exit
+explicit
+explicit specialization
+export
+expression
+facility
+fat client
+feature
+fetch
+field
+field
+field length
+file
+filter
+finalization
+firewall
+finalizer
+firmware
+flag
+flash memory
+flush
+font
+foreign key
+form
+formal parameter
+forward declaration
+forward-only
+forward-only cursor
+fragmentation
+framework
+full specialization
+function
+function call operator
+function object
+function overloaded resolution
+functionality
+function template
+functor
+GAC
+GC
+game
+generate
+generic
+generic algorithm
+genericity
+getter
+global
+global object
+global scope resolution operator
+grant
+granularity
+group
+group box
+GUI
+guid
+hand shaking
+handle
+handler
+hard-coded
+hard-copy
+hard disk
+hardware
+hash table
+header file
+heap
+help file
+hierarchy
+hierarchical data
+hook
+host
+hot key
+hyperlink
+HTML
+http pipeline  http
+http
+icon
+ide
+IDL
+identifier
+idle time
+if and only if
+IL
+image
+IME
+immediate base
+immediate derived
+immediate updating
+implicit transaction
+incremental update
+index
+implement
+implementation
+implicit
+import
+increment operator
+infinite loop
+infinite recursive
+information
+infrastructure
+inheritance
+inline
+inline expansion
+initialization
+initialization list
+initialize
+inner join
+in-place active
+instance
+instantiated
+instantiation
+integrate
+integrity
+integrity constraint
+interprocess communication
+interacts
+interface
+for gui
+interoperability
+interpreter
+introspection
+invariants
+invoke
+isolation level
+iterate
+iterative
+iterator
+iteration
+item
+jit compilation  jit
+key
+key column
+laser
+late binding
+left outer join
+level
+high level
+library
+lifetime
+link
+linkage
+linker
+literal constant
+list
+list box
+livelock
+load
+load balancing
+loader
+local
+local object
+lock
+log
+login
+login security mode
+lookup table
+loop
+loose coupling
+lvalue
+machine code
+macro
+maintain
+managed code
+managed extensions
+managed object
+mangled name
+manifest
+manipulator
+many-to-many relationship
+many-to-one relationship
+marshal
+member
+member access operator
+member function
+member initialization list
+memberwise
+memberwise copy
+memory
+memory leak
+menu
+message
+message based
+message loop
+message queue
+metadata
+metaprogramming
+method
+micro
+middleware
+middle tier
+modeling
+modeling language
+modifier
+modem
+module
+most derived class
+mouse
+mutable
+mutex
+multithreaded server application
+multiuser
+multi-tasking
+multi-thread
+multicast delegate
+named parameter
+named pipe
+Namespace
+native
+native code
+native image generator
+nested class
+nested query
+nested table
+network
+network card
+object
+object based
+object file
+object model
+object oriented
+object pooling
+odbc data source odbc
+odbc driver      odbc
+ODR
+ole automation objects   ole
+ole automation server    ole
+ole db consumer  ole db
+ole db for olap
+ole db provider  ole db
+one-to-many relationship
+one-to-one relationship
+online analytical processing
+online redo log
+online transaction processing
+open data services
+open database connectivity
+operand
+operating system
+operation
+operator
+option
+optimizer
+outer join
+overflow
+overhead
+overload
+overload resolution
+overloaded function
+overloaded operator
+override
+package
+packaging
+palette
+parallel
+parameter
+parameter list
+parameterize
+parent class
+parentheses
+parse
+parser
+part
+partial specialization
+pass by address
+pass by reference
+pass by value
+pattern
+PDA
+PE
+performance
+persistence
+pinvoke
+pixel
+placement new
+placeholder
+platform
+pod
+poi
+pointer
+poll
+pooling
+polymorphism
+pop up
+port
+postfix
+precedence
+prefix
+preprocessor
+primary key
+primary table
+primary template
+primitive type
+print
+printer
+procedure
+procedural
+process
+profile
+profiler
+program
+programmer
+programming
+progress bar
+project
+property
+protocol
+pseudo code
+qualified
+qualified name
+qualifier
+quality
+queue
+race condition
+radian
+radio button
+raise
+random number
+range
+rank
+raw
+readonly
+record
+recordset
+recursive
+re-direction
+refactoring
+refer
+reference
+reference counting
+referential integrity
+register
+reflection
+refresh data
+regular expression
+relational database
+remote
+remote request
+represent
+resolve
+resolution
+result set
+retrieve data
+return
+return type
+return value
+right outer join
+revoke
+robust
+robustness
+roll back
+roll forward
+routine
+row
+rowlock
+rowset
+RPC
+runtime
+rvalue
+save
+savepoint
+sax
+scalable
+schedule
+scheduler
+schema
+scroll bar
+scope
+scope operator
+scope resolution operator
+screen
+SDK
+sealed class
+search
+semantics
+semaphore
+sequential container
+server
+serial
+server cursor
+session
+setter
+shared lock
+sibling
+side effect
+signature
+single-threaded
+slider
+slot
+smart pointer
+SMTP
+snapshot
+snapshot
+specialization
+specification
+splitter
+soap
+software
+source code
+SQL
+stack
+stack unwinding
+standard library
+standard template library
+stateless
+statement
+static cursor
+static sql statements
+stored procedure
+status bar
+stream
+string
+stub
+subobject
+subquery
+subroutine
+subscript operator
+subset
+subtype
+support
+suspend
+symbol
+syntax
+system databases
+system tables
+table
+table lock
+table-level constraint
+tape backup
+target
+task switch
+TCP
+template
+template argument deduction
+template explicit specialization
+template parameter
+template template parameter
+temporary object
+temporary table
+text
+text file
+thin client
+third-party
+thread
+thread-safe
+throw
+token
+trace
+transaction
+transaction log
+transaction rollback
+transactional replication
+translation unit
+traverse
+trigger
+two-phase commit
+tuple
+two-phase lookup
+type
+uddi
+UML
+unary function
+unary operator
+unbox
+underflow
+union query
+unique constraints  unique
+Unique Index
+unmanaged code
+unmarshal
+unqualified
+URI
+url
+user
+user interface
+value type
+variable
+vector
+viable
+video
+view
+vee
+vendor
+view
+virtual function
+virtual machine
+virtual memory
+vowel
+web services   web
+where clause   where
+wildcard character
+wildcard search
+window
+window function
+window procedure
+windows authentication windows
+wizard
+word
+word processor
+wrapper
+write enable
+write-ahead log
+write-only
+WSDL
+xml message interface
+xml
+xsd
+xsl
+XSLT
